@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/ruchikagamage/Projects/firebase/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ruchikagamage/Projects/firebase/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ruchikagamage/Projects/firebase/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTView.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/ruchikagamage/Projects/firebase/node_modules/react-native/React/Views/UIView+React.h
